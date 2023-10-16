@@ -28,7 +28,7 @@ class CategoriesScreen extends StatelessWidget {
           onToggleFavorite: onToggleFavorite,
         ),
       ),
-    ); // Navigator.push(context, route)
+    );
   }
 
   @override
